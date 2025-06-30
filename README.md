@@ -59,3 +59,16 @@ Launch the app using `streamlit_app (2).py` to:
 - 🎯 Use sliders to predict price based on custom input
 - 📉 View model performance metrics and visualizations
 - 📥 Download predictions as CSV
+
+  ---
+
+  ## 📸 Streamlit App Preview
+
+![App Screenshot](screenshot.png)
+
+---
+
+##  Author
+
+**Firdose**  
+📎 [LinkedIn](https://www.linkedin.com/in/firdose-anjum-ml/) • 💼 [Portfolio](https://firdoseanjum.framer.website/)
