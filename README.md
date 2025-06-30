@@ -53,12 +53,12 @@ The objective is to predict the **median value of owner-occupied homes (`MEDV`)*
 
 Launch the app using `streamlit_app (2).py` to:
 
-- 📤 Upload your CSV file
-- 🧭 Explore the data interactively
-- ⚙️ Train & tune regression models (Linear, Ridge, Lasso)
-- 🎯 Use sliders to predict price based on custom input
-- 📉 View model performance metrics and visualizations
-- 📥 Download predictions as CSV
+- Upload your CSV file
+- Explore the data interactively
+- Train & tune regression models (Linear, Ridge, Lasso)
+- Use sliders to predict price based on custom input
+- View model performance metrics and visualizations
+- Download predictions as CSV
 
   ---
 
