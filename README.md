@@ -62,7 +62,7 @@ Launch the app using `streamlit_app (2).py` to:
 
   ---
 
-  ## 📸 Streamlit App Preview
+## 📸 Streamlit App Preview
 
 ![App Screenshot](UI_Screenshot.png)
 
