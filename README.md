@@ -3,7 +3,7 @@
 This project provides an end-to-end solution for **predicting house prices** using the **Boston Housing dataset**. It includes:
 
 - A well-documented **Jupyter Notebook** (`Boston House Predictor.ipynb`) for data analysis and modeling
-- An interactive **Streamlit app** (`streamlit_app.py`) to visualize results and make live predictions
+- An interactive **Streamlit app** (`streamlit_app (2).py`) to visualize results and make live predictions
 
 ---
 
@@ -51,7 +51,7 @@ The objective is to predict the **median value of owner-occupied homes (`MEDV`)*
 
 ## 🌐 Streamlit Web App
 
-Launch the app using `streamlit_app.py` to:
+Launch the app using `streamlit_app (2).py` to:
 
 - 📤 Upload your CSV file
 - 🧭 Explore the data interactively
